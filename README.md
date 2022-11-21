@@ -15,13 +15,13 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plenoryan&theme=alduin" alt="plenoryan" /></a> </p>
 
 <div align="center">
-- 🌱 I’m currently learning **JS, HTML, CSS**
+ 🌱 I’m currently learning **JS, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [Loading...](Loading...)
+ 👨‍💻 All of my projects are available at [Loading...](Loading...)
 
-- 📫 How to reach me **7yan.ead@gmail.com**
+ 📫 How to reach me **7yan.ead@gmail.com**
 
-- 📄 Know about my experiences [Loading...](Loading...)
+ 📄 Know about my experiences [Loading...](Loading...)
  </div>
  
 <p align="center"> <img src="https://media0.giphy.com/media/3o85xvmFjCdoFmjMti/giphy.gif?cid=ecf05e47w6yu8nd0uxm4oon0wfef8912jorlobko5bju23ic&rid=giphy.gif&ct=g" alt="plenoryan" /></p>
