@@ -2,12 +2,13 @@
 <h3 align="center">A new aspiring programmer from Brazil</h3>
 
 
-
+<div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plenoryan&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" alt="plenoryan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plenoryan&theme=apprentice&show_icons=true&locale=en" alt="plenoryan" /></p>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&border_radius=5&locale=pt-br&sideNums=FEFEB3&sideLabels=FFFFFF&currStreakNum=FEFEB3&currStreakLabel=FFFFFF&ring=FFFFFF&fire=FEFEB3&dates=FEFEB3&background=262626&stroke=FEFEB3&border=FFFFFF" alt="plenoryan" /></p>
+ </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=plenoryan&label=Profile%20views&color=0e75b6&style=flat" alt="plenoryan" /> </p>
 
