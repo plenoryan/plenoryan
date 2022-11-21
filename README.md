@@ -7,7 +7,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plenoryan&theme=apprentice&show_icons=true&locale=en" alt="plenoryan" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plenoryan&label=Profile%20views&color=0e75b6&style=flat" alt="plenoryan" /> </p>
+<p><img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&border_radius=5&locale=pt-br&sideNums=FEFEB3&sideLabels=FFFFFF&currStreakNum=FEFEB3&currStreakLabel=FFFFFF&ring=FFFFFF&fire=FEFEB3&dates=FEFEB3&background=262626&stroke=FEFEB3&border=FFFFFF" alt="plenoryan" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=plenoryan&label=Profile%20views&color=0e75b6&style=flat" alt="plenoryan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plenoryan&theme=alduin" alt="plenoryan" /></a> </p>
 
@@ -19,7 +21,7 @@
 
 - 📄 Know about my experiences [Loading...](Loading...)
  
-<center><p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&border_radius=5&locale=pt-br&sideNums=FEFEB3&sideLabels=FFFFFF&currStreakNum=FEFEB3&currStreakLabel=FFFFFF&ring=FFFFFF&fire=FEFEB3&dates=FEFEB3&background=262626&stroke=FEFEB3&border=FFFFFF" alt="plenoryan" /></p></center>
+<p align="right"> <img src="https://media0.giphy.com/media/3o85xvmFjCdoFmjMti/giphy.gif?cid=ecf05e47w6yu8nd0uxm4oon0wfef8912jorlobko5bju23ic&rid=giphy.gif&ct=g" alt="plenoryan" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
