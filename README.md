@@ -24,7 +24,7 @@
  📄 Know about my experiences [Loading...](Loading...)
  </div>
  
-<p align="center"><img src="https://media0.giphy.com/media/3o85xvmFjCdoFmjMti/giphy.gif?cid=ecf05e47w6yu8nd0uxm4oon0wfef8912jorlobko5bju23ic&rid=giphy.gif" alt="plenoryan" /></p>
+<p align="center"><img src="https://media0.giphy.com/media/3o85xvmFjCdoFmjMti/giphy.gif" alt="plenoryan" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
