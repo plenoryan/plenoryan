@@ -27,4 +27,4 @@
 
 
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&hide_border=true&border_radius=100&locale=pt-br&sideNums=FFD79C&sideLabels=DDDDDD&currStreakNum=FFD79C&currStreakLabel=DDDDDD&ring=844136&fire=FF6A00&dates=DD7B3F)](https://git.io/streak-stats" alt="plenoryan" /></p>
+<p><img align="center" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&hide_border=true&border_radius=100&locale=pt-br&sideNums=FFD79C&sideLabels=DDDDDD&currStreakNum=FFD79C&currStreakLabel=DDDDDD&ring=FFFFFF&fire=FFD79C&dates=FFD79C&background=2D2D2D&stroke=FFD79C)](https://git.io/streak-stats)" alt="plenoryan" /></p>
