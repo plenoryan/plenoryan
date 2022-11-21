@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Loading...](Loading...)
  
-<center><p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&border_radius=100&locale=pt-br&sideNums=FFD79C&sideLabels=DDDDDD&currStreakNum=FFD79C&currStreakLabel=DDDDDD&ring=FFFFFF&fire=FFD79C&dates=FFD79C&background=2D2D2D&stroke=FFD79C&border=FFFFFF" alt="plenoryan" /></p></center>
+<center><p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&border_radius=5&locale=pt-br&sideNums=FEFEB3&sideLabels=FFFFFF&currStreakNum=FEFEB3&currStreakLabel=FFFFFF&ring=FFFFFF&fire=FEFEB3&dates=FEFEB3&background=262626&stroke=FEFEB3&border=FFFFFF" alt="plenoryan" /></p></center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
