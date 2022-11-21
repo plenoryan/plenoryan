@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A new aspiring programmer from Brazil</h3>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&border_radius=100&locale=pt-br&sideNums=FFD79C&sideLabels=DDDDDD&currStreakNum=FFD79C&currStreakLabel=DDDDDD&ring=FFFFFF&fire=FFD79C&dates=FFD79C&background=2D2D2D&stroke=FFD79C&border=FFFFFF" alt="plenoryan" /></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plenoryan&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" alt="plenoryan" /></p>
+
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&border_radius=100&locale=pt-br&sideNums=FFD79C&sideLabels=DDDDDD&currStreakNum=FFD79C&currStreakLabel=DDDDDD&ring=FFFFFF&fire=FFD79C&dates=FFD79C&background=2D2D2D&stroke=FFD79C&border=FFFFFF" alt="plenoryan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plenoryan&theme=apprentice&show_icons=true&locale=en" alt="plenoryan" /></p>
 
