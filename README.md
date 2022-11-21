@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plenoryan&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true" alt="plenoryan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plenoryan&show_icons=true&locale=pt-br&theme=apprentice&include_all_commits=true&count_private=true" alt="plenoryan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plenoryan&theme=apprentice&show_icons=true&locale=en" alt="plenoryan" /></p>
 
