@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ryan</h1>
-<h3 align="center">A new aspiring programmer from Brazil</h3>
+<h1 align="center">Opa, eu sou o Ryan</h1>
+<h3 align="center">Um novo aspirante a programador</h3>
 
 
 <div align="center">
