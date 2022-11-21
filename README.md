@@ -15,7 +15,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plenoryan&theme=alduin" alt="plenoryan" /></a> </p>
 
 <div align="center">
- 🌱 I’m currently learning **JS, HTML, CSS**
+ 🌱 I’m currently learning JS, HTML, CSS
 
  👨‍💻 All of my projects are available at [Loading...](Loading...)
 
