@@ -1,5 +1,5 @@
 <h1 align="center">Opa, eu sou o Ryan</h1>
-<h3 align="center">Um novo aspirante a programador</h3>
+<h3 align="center">Aspirante a programador</h3>
 
 
 <div align="center">
