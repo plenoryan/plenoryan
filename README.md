@@ -10,8 +10,6 @@
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&border_radius=5&locale=pt-br&sideNums=FEFEB3&sideLabels=FFFFFF&currStreakNum=FEFEB3&currStreakLabel=FFFFFF&ring=FFFFFF&fire=FEFEB3&dates=FEFEB3&background=262626&stroke=FEFEB3&border=FFFFFF" alt="plenoryan" /></p>
  </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=plenoryan&label=Profile%20views&color=0e75b6&style=flat" alt="plenoryan" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plenoryan&theme=alduin" alt="plenoryan" /></a> </p>
 
 <div align="center">
