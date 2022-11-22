@@ -1,7 +1,7 @@
-<h1 align="center">Opa, eu sou o Ryan</h1>
-<h3 align="center">Aspirante a programador</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=262626&height=85&section=header"/>
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fefeb6&size=20&center=true&vCenter=true&width=1000&lines=Opa,+eu+sou+o+Ryan;Aspirante+a+programador;Direto+de+BH!;+:%29)](https://git.io/typing-svg)
+ 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plenoryan&show_icons=true&locale=pt-br&theme=apprentice&include_all_commits=true&count_private=true" alt="plenoryan" /></p>
 
@@ -48,7 +48,7 @@
 
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=262626&height=85&section=footer"/>
 
 
 
