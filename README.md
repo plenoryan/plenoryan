@@ -11,6 +11,10 @@
  </div>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plenoryan&theme=alduin" alt="plenoryan" /></a> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-username">
+</picture>
 
 <div align="center">
  🌱 I’m currently learning JS, HTML, CSS
