@@ -12,11 +12,12 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plenoryan&theme=alduin" alt="plenoryan" /></a> </p>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/plenoryan?theme=dark">
   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/plenoryan">
 </picture>
-
+/>
 <div align="center">
  🌱 I’m currently learning JS, HTML, CSS
 
