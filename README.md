@@ -1,59 +1,71 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=262626&height=85&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fefeb6&size=20&center=true&vCenter=true&width=1000&lines=Opa,+eu+sou+o+Ryan;Aspirante+a+programador;Direto+de+BH!;+:%29)](https://git.io/typing-svg)
- 
+
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=plenoryan&show_icons=true&locale=pt-br&theme=apprentice&include_all_commits=true&count_private=true" alt="plenoryan" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plenoryan&theme=apprentice&show_icons=true&locale=pt-br" alt="plenoryan" /></p>
-
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=plenoryan&theme=git-dark&border_radius=5&locale=pt-br&sideNums=FEFEB3&sideLabels=FFFFFF&currStreakNum=FEFEB3&currStreakLabel=FFFFFF&ring=FFFFFF&fire=FEFEB3&dates=FEFEB3&background=262626&stroke=FEFEB3&border=FFFFFF" alt="plenoryan" /></p>
- </div>
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=plenoryan&theme=alduin" alt="plenoryan" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=plenoryan&theme=alduin" alt="plenoryan" />
+  </a>
+</p>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/plenoryan?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/plenoryan">
-</picture>
-/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/plenoryan?theme=dark">
+    <img alt="Most Used Languages" src="https://github-used-languages.vercel.app/plenoryan">
+  </picture>
+</div>
+
 <div align="center">
- 🌱 I’m currently learning JS, HTML, CSS
 
- 👨‍💻 All of my projects are available at [Loading...](Loading...)
+🌱 I'm currently learning JS, HTML, CSS<br/>
+📫 How to reach me **[7yan.ead@gmail.com](mailto:7yan.ead@gmail.com)**
 
- 📫 How to reach me **7yan.ead@gmail.com**
+</div>
 
- 📄 Know about my experiences [Loading...](Loading...)
- </div>
- 
-<p align="center"><img src="https://media0.giphy.com/media/3o85xvmFjCdoFmjMti/giphy.gif" alt="plenoryan" /></p>
+<p align="center">
+  <img src="https://media0.giphy.com/media/3o85xvmFjCdoFmjMti/giphy.gif" alt="plenoryan" />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/plenoryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="plenoryan" height="30" width="40" /></a>
+  <a href="https://instagram.com/plenoryan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="plenoryan" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  </a>
+</p>
 
 <div align="center">
+  <img src="https://github.com/plenoryan/plenoryan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-![Snake animation](https://github.com/plenoryan/plenoryan/blob/output/github-contribution-grid-snake.svg)
- 
-  </div>
-  
 <div align="center">
-
-[![Spotify](https://novatorem-klr5.vercel.app/api/spotify/?background_color=262626&border_color=fefeb6)](https://open.spotify.com/user/plenoryan)
- 
- </div>
-
-
+  <a href="https://open.spotify.com/user/plenoryan">
+    <img src="https://novatorem-klr5.vercel.app/api/spotify/?background_color=262626&border_color=fefeb6" alt="Spotify" />
+  </a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=262626&height=85&section=footer"/>
-
-
-
- 
