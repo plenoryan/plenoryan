@@ -9,9 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=plenoryan&theme=alduin" alt="plenoryan" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=plenoryan&theme=alduin" alt="plenoryan" />
 </p>
 
 <div align="center">
@@ -59,7 +57,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/plenoryan/plenoryan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/plenoryan/plenoryan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
