@@ -75,7 +75,7 @@ Aplicativo para Windows que espelha monitores físicos ou virtuais usando captur
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/plenoryan/plenoryan/output/github-contribution-grid-snake.svg" alt="Animação snake do gráfico de contribuições" width="100%" />
+  <img src="https://raw.githubusercontent.com/plenoryan/plenoryan/output/github-contribution-grid-snake.svg" alt="Animação snake do gráfico de contribuições" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=262626&height=85&section=footer" alt="Onda decorativa de encerramento" />
