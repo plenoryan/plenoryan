@@ -66,7 +66,7 @@ Aplicativo para Windows que espelha monitores físicos ou virtuais usando captur
 
 ## Contato
 
-[E-mail](mailto:7yan.ead@gmail.com) · [Instagram](https://www.instagram.com/plenoryan/) · [Spotify](https://open.spotify.com/user/plenoryan)
+[E-mail](mailto:7yan.ead@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ryan-patrick-6a522a1a5/) · [Instagram](https://www.instagram.com/plenoryan/) · [Spotify](https://open.spotify.com/user/plenoryan)
 
 <p align="center">
   <a href="https://giphy.com/gifs/glitch-art-mograph-pixel-sorting-3o85xvmFjCdoFmjMti">
